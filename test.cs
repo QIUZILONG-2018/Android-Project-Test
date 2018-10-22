@@ -7,4 +7,6 @@ void testfunction()
     テストの２
 
     テストの３
+
+    テストの４
 }
