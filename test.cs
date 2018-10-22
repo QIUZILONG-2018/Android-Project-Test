@@ -5,4 +5,6 @@ void testfunction()
     テスト
 
     テストの２
+
+    テストの３
 }
